@@ -9,3 +9,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 forking is used when you want to edit a repo but the author needs the (unchanged) original. CLoning is the same, but offline.
 Branches are used for adding experimental new features or differemt versions.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can work offline.
