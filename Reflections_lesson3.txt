@@ -1,3 +1,6 @@
 When would you create a remote repo rather than keeping all of your work offline?
 
 Backup, Sync between devices, coop with other programmers.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+If the changes are an experiment.
