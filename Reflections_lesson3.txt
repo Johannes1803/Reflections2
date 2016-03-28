@@ -1,2 +1,3 @@
 When would you create a remote repo rather than keeping all of your work offline?
 
+Backup, Sync between devices, coop with other programmers.
